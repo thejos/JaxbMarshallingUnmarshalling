@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="countries.xsd">
+	<country countryCode="cz">
+		<name>Czech Republic</name>
+		<capital>Port Elbert</capital>
+		<description>Debitis delectus aliquid minus officia veniam blanditiis veniam.</description>
+	</country>
+	<country countryCode="am">
+		<name>Armenia</name>
+		<capital>Lake Danstad</capital>
+		<description>Velit error voluptate adipisci assumenda ipsam maiores.</description>
+	</country>
+	<country countryCode="pk">
+		<name>Pakistan</name>
+		<capital>Kaelaberg</capital>
+		<description>Et dolor hic hic atque dolore velit veniam.</description>
+	</country>
+	<country countryCode="co">
+		<name>Colombia</name>
+		<capital>West Edgar</capital>
+		<description>Itaque enim minima fugit.</description>
+	</country>
+</countries>
